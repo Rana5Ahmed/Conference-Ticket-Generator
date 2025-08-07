@@ -189,7 +189,7 @@
                 <div className='info position-absolute top-50 start-0  m-4  text-white'>
                   <div className='d-flex  justify-content-start align-items-start gap-3'>
                   <div className='avatar'>
-                     {image && <img src={image.preview} className='img-fluid '  alt="Avatar"  />}
+                    {image && <img src={image.preview} className='img-fluid '  alt="Avatar"  />}
                   </div>
                   <div className='ms-2'>
                     <small className='fs-4 mb-0 d-block text-start'>{fullName}</small>
