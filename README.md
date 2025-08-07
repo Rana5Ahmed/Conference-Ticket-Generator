@@ -42,16 +42,16 @@ cd Conference-Ticket-Generator
 npm install
 npm run dev
 ```
-## 📁 Folder Structure
-├── public/
-│   └── assets/
-│       └── images/
-├── src/
-│   └── main.jsx
-│   └── App.jsx
-├── index.html
-├── vite.config.js
-└── README.md
+## 📁 Folder Structure  
+├── public/  
+│   └── assets/  
+│       └── images/  
+├── src/  
+│   └── main.jsx  
+│   └── App.jsx  
+├── index.html  
+├── vite.config.js  
+└── README.md  
 
 ## 🙋‍♀️ Author  
 Developed by Rana Ahmed
